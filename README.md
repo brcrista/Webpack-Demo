@@ -1,3 +1,3 @@
-# Webpack Example
+# Webpack Demo
 
-This is the sample project described at https://webpack.js.org/guides/getting-started/.
+This is the sample project described at https://webpack.js.org/guides/getting-started.
